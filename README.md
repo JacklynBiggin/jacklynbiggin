@@ -12,7 +12,7 @@
 - 💻 helped make 50+ hackathons around the world happen with [mlh](https://mlh.io)
   - 🏆 won 14 hackathon prize categories before they hired me (yay!)
   - 🥇 featured in the [mlh top 50](https://top.mlh.io/2021/profiles/jacklyn-biggin) out of 135,000+ people!
-- 👀 organized [hack quarantine](https://hackquarantine.com), a 3000+ attendee global hackathon organized in 10 days **(don't do that)**
+- 👀 lead organized [hack quarantine](https://hackquarantine.com), a 3000+ attendee global hackathon organized in 10 days **(don't do that)**
   - 🎖️ received [the diana award](https://diana-award.org.uk/our-programmes-and-initiatives/award-and-development/roll-of-honour/roll-of-honour-2021) for surviving it
 - 🎤 spoke at tedx about experiential education
 
