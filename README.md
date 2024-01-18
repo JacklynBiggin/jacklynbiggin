@@ -1,12 +1,14 @@
 
-<img width="1008" alt="Frame 1 (4)" src="https://github.com/JacklynBiggin/jacklynbiggin/assets/3846331/e50c2ee7-713a-40ce-b5e7-4cd6b4ef7c74">
+<img width="1008" alt="Hey, I'm Jacklyn!" src="https://github.com/JacklynBiggin/jacklynbiggin/assets/3846331/e50c2ee7-713a-40ce-b5e7-4cd6b4ef7c74">
 
 # ✨ about me
 - 🎉 making docs better and spreading good vibes at [@woocommerce](https://github.com/woocommerce) / [@automattic](https://github.com/automattic)
 - 🎓 studying digital experience innovation at [@uwaterloo](https://github.com/uwaterloo)
 - 🇨🇦 living in toronto and drinking maple syrup
-- ⛰️ adventuring around the world
+- ⛰️ adventuring!
 
+# 🌈 find me elsewhere
+[💼 linkedin](https://linkedin.com/in/jacklynbiggin) / [📸 instagram](https://instagram.com/jacklynbiggin) / [🐦 birdapp](https://twitter.com/jackbiggin) / [📺 youtube](https://youtube.com/@jacklynbiggin)
 <!--
 **JacklynBiggin/jacklynbiggin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
