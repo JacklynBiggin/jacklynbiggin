@@ -7,19 +7,14 @@
 - 🇨🇦 living in toronto and drinking maple syrup
 - ⛰️ adventuring!
 
+# 😎 cool tech stuff i've done
+- 🎥 built technical video content at [autocode](https://youtube.com/@autocodetv), watched over 500,000 times!
+- 💻 helped make 50+ hackathons around the world happen with [mlh](https://mlh.io)
+  - 🏆 won 14 hackathon prize categories before they hired me (yay!)
+  - 🥇 featured in the [mlh top 50](https://top.mlh.io/2021/profiles/jacklyn-biggin) out of 135,000+ people!
+- 👀 organized [hack quarantine](https://hackquarantine.com), a 3000+ attendee global hackathon organized in 10 days **(don't do that)**
+  - 🎖️ received [the diana award](https://diana-award.org.uk/our-programmes-and-initiatives/award-and-development/roll-of-honour/roll-of-honour-2021) for surviving it
+- 🎤 spoke at tedx about experiential education
+
 # 🌈 find me elsewhere
 [💼 linkedin](https://linkedin.com/in/jacklynbiggin) / [📸 instagram](https://instagram.com/jacklynbiggin) / [🐦 birdapp](https://twitter.com/jackbiggin) / [📺 youtube](https://youtube.com/@jacklynbiggin)
-<!--
-**JacklynBiggin/jacklynbiggin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
