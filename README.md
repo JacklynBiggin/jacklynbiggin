@@ -17,4 +17,4 @@
 - 🎤 spoke at tedx about experiential education
 
 # 🌈 find me elsewhere
-[💼 linkedin](https://linkedin.com/in/jacklynbiggin) / [📸 instagram](https://instagram.com/jacklynbiggin) / [🐦 birdapp](https://twitter.com/jackbiggin) / [📺 youtube](https://youtube.com/@jacklynbiggin)
+[😎 jacklyn.dev](https://jacklyn.dev) / [💼 linkedin](https://linkedin.com/in/jacklynbiggin) / [📸 instagram](https://instagram.com/jacklynbiggin) / [🐦 birdapp](https://twitter.com/jackbiggin) / [📺 youtube](https://youtube.com/@jacklynbiggin)
